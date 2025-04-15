@@ -101,4 +101,4 @@ if __name__ == '__main__':
 
 ## 구현체
 
-* [AWS SES(Simple Email Service)](https://github.com/team-of-mine-labs/Liquirizia.Mailer.Implements.AWS.SimpleEmailService)
+* [AWS SES(Simple Email Service)](https://github.com/yong5eon/Liquirizia.Mailer.Implements.AWS.SimpleEmailService)
