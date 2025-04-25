@@ -54,18 +54,5 @@ target/
 # PEP 582; used by e.g. github.com/David-OConnor/pyflow
 __pypackages__/
 
-# Liquirizia
-.github
-.vscode
-.idea
-.old
-*.old
-tmp
-*.log
-*.LOG
-*.log.*
-*.LOG.*
-*.txt
-*.txt.*
-*.txt
-*.TXT.*
+# Symlinks
+src/Implements/AWS/SimpleEmailService
